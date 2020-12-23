@@ -1,4 +1,5 @@
-# line-follower
+#LINE FOLLOWER
+
 Line Follower Full Project
 
 Boas, nesta projeto tem todas as informações necessárias à construção de um autómato seguidor de linha, line follower.
