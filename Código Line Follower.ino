@@ -7,9 +7,9 @@ AF_DCMotor motor2(2, MOTOR12_8KHZ ); // PIN 3 - create motor #2 pwm
 // Change the values below to suit your robot's motors, weight, wheel type, etc.
 #define KP .2
 #define KD 5
-#define M1_DEFAULT_SPEED 80
+#define M1_DEFAULT_SPEED 200
 #define M2_DEFAULT_SPEED 200
-#define M1_MAX_SPEED 120
+#define M1_MAX_SPEED 250
 #define M2_MAX_SPEED 250
 #define MIDDLE_SENSOR A4
 #define NUM_SENSORS   8      // number of sensors used
